@@ -8,4 +8,6 @@ public class DefaultFeignConfiguration {
     public Logger.Level logLevel(){
         return Logger.Level.BASIC;
     }
+
+
 }
